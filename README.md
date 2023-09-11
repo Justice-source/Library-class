@@ -11,3 +11,6 @@ https://app.stackup.dev/quest_page/javascript-classes
 
 ```shell
    git clone https://github.com/Justice-source/Library-class.git
+
+```shell
+node index.js
