@@ -9,6 +9,10 @@ Now, we will create our first class in JavaScript. Open up our index.js file. We
 # For more information
 https://app.stackup.dev/quest_page/javascript-classes
 
-```shell
+1. Clone the GitHub repository:
+    ```shell
    git clone https://github.com/Justice-source/Library-class.git
-
+    
+2. Install the dependencies:
+   ```shell
+    node index.js
