@@ -15,4 +15,4 @@ https://app.stackup.dev/quest_page/javascript-classes
 # To run the code in your IDE
 
 ```shell
-node index.js
+   node index.js
