@@ -12,7 +12,3 @@ https://app.stackup.dev/quest_page/javascript-classes
 ```shell
    git clone https://github.com/Justice-source/Library-class.git
 
-# To run the code in your IDE
-
-```shell
-   node index.js
