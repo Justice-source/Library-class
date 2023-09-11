@@ -13,6 +13,6 @@ https://app.stackup.dev/quest_page/javascript-classes
     ```shell
    git clone https://github.com/Justice-source/Library-class.git
     
-2. Install the dependencies:
+2. Run the code in visual studio code through your terminal:
    ```shell
     node index.js
